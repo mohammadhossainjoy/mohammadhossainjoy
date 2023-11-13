@@ -1,8 +1,9 @@
-![Uploading image.png…]()
+![image](https://github.com/mohammadhossainjoy/mohammadhossainjoy/assets/134834809/ecb69e4d-cb53-4925-a2d7-5942afb98407)
 
-### Hi there 👋, My Name is Mohammad Hossain
-#### Web Developer
-![Web Developer]
+
+# Hi there 👋, My Name is Mohammad Hossain
+## Web Developer
+
 
 I`m Mohammad Hossain Joy, a passionate Computer Science and Engineering student at North South University with a passion for web development. As a front-end web developer, I specialize in creating error-free and visually appealing websites. I am not  limited to front-end, I am also proficient in back-end web development. My passion for technology and dynamic nature motivate me to learn and keep up with the latest developments in the field. I believe in the use of technology to solve problems in the real world. I am always looking for ways to make a difference, be it innovative web solutions or solve coding problems. I have a passion for learning and sharing knowledge. I believe that the more you share, the more you grow together.
 
