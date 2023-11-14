@@ -2,10 +2,11 @@
 
 ![image](https://github.com/mohammadhossainjoy/mohammadhossainjoy/assets/134834809/2a962325-161b-4635-9147-82518edc5f14)
 
-
+file:///C:/Users/Hp/Downloads/Mohammad%20Hossain%20Joy.png
+![image](https://github.com/mohammadhossainjoy/mohammadhossainjoy/assets/file:///C:/Users/Hp/Downloads/Mohammad%20Hossain%20Joy.png)
 # Hi there 👋, I am Mohammad Hossain Joy
 ## Web Developer
-https://www.canva.com/design/DAF0HCzwyy0/zoy6ipNZIGdyUYKHwxiubA/edit?utm_content=DAF0HCzwyy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 I`m Mohammad Hossain Joy, a passionate Computer Science and Engineering student at North South University with a passion for web development. As a front-end web developer, I specialize in creating error-free and visually appealing websites. I am not  limited to front-end, I am also proficient in back-end web development. My passion for technology and dynamic nature motivate me to learn and keep up with the latest developments in the field. I believe in the use of technology to solve problems in the real world. I am always looking for ways to make a difference, be it innovative web solutions or solve coding problems. I have a passion for learning and sharing knowledge. I believe that the more you share, the more you grow together.
 
