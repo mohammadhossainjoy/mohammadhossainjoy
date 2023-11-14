@@ -1,6 +1,7 @@
+![image](https://github.com/mohammadhossainjoy/mohammadhossainjoy/assets/134834809/fdc44ffd-9d51-4ae3-ae7f-2ae250203654)
 
 
-![image](https://github.com/mohammadhossainjoy/mohammadhossainjoy/assets/134834809/2a962325-161b-4635-9147-82518edc5f14)
+
 
 # Hi there 👋, I am Mohammad Hossain Joy
 ## Web Developer
