@@ -33,4 +33,4 @@ Skills:  HTML / CSS/PHP/MySQL/C/Java/C++
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mohammadhossainjoy)  
 
-![Profile views](https://gpvc.arturio.dev/mohammadhossainjoy)  
+![Profile views](https://github.com/mohammadhossainjoy)  
