@@ -9,7 +9,7 @@
 
 I`m Mohammad Hossain Joy, a passionate Computer Science and Engineering student at North South University with a passion for web development. As a front-end web developer, I specialize in creating error-free and visually appealing websites. I am not  limited to front-end, I am also proficient in back-end web development. My passion for technology and dynamic nature motivate me to learn and keep up with the latest developments in the field. I believe in the use of technology to solve problems in the real world. I am always looking for ways to make a difference, be it innovative web solutions or solve coding problems. I have a passion for learning and sharing knowledge. I believe that the more you share, the more you grow together.
 
-Skills:  HTML / CSS/PHP/MySQL/C/Java/C++
+Skills:  HTML / CSS/Javascript/PHP/MySQL/C/Java/C++
 
 - 🔭 I’m currently working on For me 
 - 🌱 I’m currently learning Laravel,javascript 
