@@ -39,7 +39,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadhossainjoy&show_icons=true&locale=en&layout=compact" alt="mohammadhossainjoy" /></p>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadhossainjoy&show_icons=true&locale=en" alt="mohammadhossainjoy" />&nbsp;<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadhossainjoy&theme=nord_bright" alt="mohammadhossainjoy" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadhossainjoy&show_icons=true&locale=en" alt="mohammadhossainjoy" />&nbsp;</p>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhossainjoy&theme=blueberry)
