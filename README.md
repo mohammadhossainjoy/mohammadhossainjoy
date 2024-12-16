@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/mohammad-hossain-2baa7526a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-hossain-2baa7526a" height="30" width="40" /></a>
 <a href="https://fb.com/mh.joy.75457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mh.joy.75457" height="30" width="40" /></a>
 <a href="https://instagram.com/_mh_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mh_joy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mhjoy5547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mhjoy5547" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/@mhjoy5547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mhjoy5547" height="30" width="40" /></a>
 </p>
 
 
