@@ -34,7 +34,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhossainjoy" alt="mohammadhossainjoy" /></a> </p>
 
 
 
@@ -50,7 +49,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadhossainjoy&show_icons=true&locale=en&layout=compact" alt="mohammadhossainjoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhossainjoy&show_icons=true&locale=en" alt="mohammadhossainjoy" /></p>
+<p>&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadhossainjoy&theme=solarized);
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhossainjoy&show_icons=true&locale=en" alt="mohammadhossainjoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhossainjoy&" alt="mohammadhossainjoy" /></p>
 
@@ -58,7 +58,6 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadhossainjoy&theme=react-dark&hide_border=true&area=true)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhossainjoy&theme=blueberry)
