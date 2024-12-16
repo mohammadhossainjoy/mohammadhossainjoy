@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadhossainjoy" alt="mohammadhossainjoy" /></a> </p>
 
+- 🔭 I’m currently working on for Me 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on MERN Stack Project 
+- 💬 Ask me about JavaScript, Web Development 
 - 📫 How to reach me: Through Email and Linkedin provided to the social links section **joyh2755@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
