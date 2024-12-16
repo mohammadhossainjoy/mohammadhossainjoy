@@ -49,7 +49,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadhossainjoy&show_icons=true&locale=en&layout=compact" alt="mohammadhossainjoy" /></p>
 
-<p>&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadhossainjoy&theme=solarized);
+<p>&nbsp;<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadhossainjoy&theme=solarized" alt="mohammadhossainjoy" />;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadhossainjoy&show_icons=true&locale=en" alt="mohammadhossainjoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhossainjoy&" alt="mohammadhossainjoy" /></p>
