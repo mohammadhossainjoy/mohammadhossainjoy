@@ -58,19 +58,13 @@
 
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadhossainjoy&theme=react-dark&hide_border=true&area=true)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhossainjoy&theme=blueberry)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhossainjoy)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadhossainjoy&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mohammadhossainjoy/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mohammadhossainjoy)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mohammadhossainjoy)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadhossainjoy&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadhossainjoy&theme=nord_bright)
 
 
 
