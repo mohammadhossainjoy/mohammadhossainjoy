@@ -9,10 +9,10 @@ I'm a final-year Computer Science and Engineering student at **North South Unive
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhossainjoy&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhossainjoy" /> </p>
 
 
-- 🔭 I’m currently working on for Me 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on MERN Stack Project 
-- 💬 Ask me about JavaScript, Web Development 
+- 🌱 Currently learning: ASP.NET Core, C#, SQL Server
+- 💼 Preparing for internship and junior developer roles
+- 🤝 Open to collaborate on beginner-friendly ASP.NET/C# projects
+- 💬 Ask me about: My ASP.NET learning journey, backend development, and web development technology  
 - 📫 How to reach me: Through Email and Linkedin provided to the social links section **joyh2755@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
