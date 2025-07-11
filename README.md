@@ -23,12 +23,13 @@ I'm a final-year Computer Science and Engineering student at **North South Unive
 <a href="https://www.youtube.com/channel/@mhjoy5547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mhjoy5547" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,csharp,dotnet,sql,js,java,c,vscode,visualstudio,git,github" />
-  </a>
-</p>
+### 🛠️ Languages and Tools I Use:
+
+- **Languages:** C#, JavaScript, HTML, CSS, C, Java, SQL
+- **Frameworks/Libraries:** ASP.NET Core, Bootstrap
+- **Database Systems:** SQL Server, MySQL
+- **Tools & IDEs:** Visual Studio, VS Code, Git, GitHub
+
 
 
 
