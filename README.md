@@ -26,9 +26,10 @@ I'm a final-year Computer Science and Engineering student at **North South Unive
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,csharp,dotnet,aspdotnet,sqlserver,mysql,js,c,java,visualstudio,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,csharp,dotnet,sql,js,java,c,vscode,visualstudio,git,github" />
   </a>
 </p>
+
 
 
 
