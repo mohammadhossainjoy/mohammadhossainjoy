@@ -1,17 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Hossain Joy</h1>
 
-### 🎯 Objective
-Final-year CSE student (NSU) seeking an ASP.NET/.NET Internship. I build secure, maintainable web apps with ASP.NET Core MVC, Entity Framework Core, SQL Server, and Razor, and I’m comfortable with Git/GitHub, code reviews, and team workflows.
-
-### 🧰 Core Tech Skills
-- C#, ASP.NET Core MVC, Razor, REST (basic)
-- Entity Framework Core, LINQ, Migrations
-- SQL Server, SSMS (T-SQL)
-- ASP.NET Identity (roles/auth), Data Annotations, Validation
-- Dependency Injection, MVC pattern
-- Visual Studio, Git & GitHub
-
 <p>
 
 I'm a final-year Computer Science and Engineering student at **North South University**, currently focused on learning and building web applications using **ASP.NET** and **C#**. With a growing foundation in web technologies, I'm developing my skills in backend development using the Microsoft .NET ecosystem to create secure, scalable, and efficient applications.I enjoy exploring new technologies, solving real-world problems, and collaborating on meaningful projects. Right now, I’m actively preparing for **internship** and **entry-level opportunities** in the software industry — especially in roles related to ASP.NET and web development.</p>
